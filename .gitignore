@@ -29,6 +29,10 @@ x86/
 bld/
 [Bb]in/
 [Oo]bj/
+<<<<<<< HEAD
+=======
+[Oo]ut/
+>>>>>>> fb016ab17b4fb09b8b12f961b5713bc9ea469232
 [Ll]og/
 [Ll]ogs/
 
@@ -57,14 +61,21 @@ dlldata.c
 # Benchmark Results
 BenchmarkDotNet.Artifacts/
 
+<<<<<<< HEAD
 # .NET
+=======
+# .NET Core
+>>>>>>> fb016ab17b4fb09b8b12f961b5713bc9ea469232
 project.lock.json
 project.fragment.lock.json
 artifacts/
 
+<<<<<<< HEAD
 # Tye
 .tye/
 
+=======
+>>>>>>> fb016ab17b4fb09b8b12f961b5713bc9ea469232
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
 
@@ -362,6 +373,7 @@ MigrationBackup/
 .ionide/
 
 # Fody - auto-generated XML schema
+<<<<<<< HEAD
 FodyWeavers.xsd
 
 ##
@@ -452,3 +464,6 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+=======
+FodyWeavers.xsd
+>>>>>>> fb016ab17b4fb09b8b12f961b5713bc9ea469232
